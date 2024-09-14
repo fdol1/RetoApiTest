@@ -1,4 +1,4 @@
-Feature: Peticiones mascotas
+Feature: Actualizar mascota
 
   Background:
     * url urlApi

@@ -32,9 +32,7 @@ Para garantizar el correcto funcionamiento del robot de pruebas, es importante c
 
 •JSON
 
-•Karate UI
-
-•Allure
+•Karate Framework
 
 
 ### Requisitos de Compilación

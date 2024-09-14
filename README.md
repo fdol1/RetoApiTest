@@ -50,7 +50,7 @@ Para ejecutar el conjunto de pruebas automatizadas, sigue los siguientes pasos:
 1 Abre tu IDE (IntelliJ IDEA).
 
 2 Dirígete a la ruta:
-### • src/test/java/micro_servicios/TestPeticionesPetStore
+### • src/test/java/micro_servicios
 
 3 Dentro de esta carpeta, encontrarás la clase encargada de ejecutar las pruebas automatizadas.
 
